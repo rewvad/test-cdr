@@ -1,0 +1,9 @@
+Sphinx
+Werkzeug
+ipython
+pip-tools
+pygraphviz
+django-debug-toolbar-template-timings
+tabulate
+fake-factory
+alabaster

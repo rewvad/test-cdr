@@ -1,0 +1,66 @@
+.. _getting-help:
+
+Getting Help
+============
+
+.. _mailing-list:
+
+Mailing list
+------------
+
+For discussions about the usage, development, and future of CDR-Stats,
+please join the `CDR-Stats`_ mailing list.
+
+.. _`CDR-Stats`: http://groups.google.com/group/cdr-stats
+
+.. _irc-channel:
+
+IRC
+---
+
+Come chat with us on IRC. The **#cdr-stats** channel is located at the `Freenode`_
+network.
+
+.. _`Freenode`: http://freenode.net
+
+.. _bug-tracker:
+
+Bug tracker
+===========
+
+If you have any suggestions, bug reports or annoyances please report them
+to our issue tracker at https://github.com/cdr-stats/cdr-stats/issues/
+
+.. _documentation:
+
+Documentation
+=============
+
+The `latest documentation`_ with user guides, tutorials and API references is hosted on CDR-Stats website : http://www.cdr-stats.org/documentation/
+
+Beginner's Guide : http://www.cdr-stats.org/documentation/beginners-guide/
+
+.. _`latest documentation`: http://www.cdr-stats.org/documentation/
+
+
+.. _support:
+
+Support
+=======
+
+Star2Billing S.L. offers consultancy including installation, training and customisation
+
+Website : http://www.star2billing.com
+
+Email : cdr-stats@star2billing.com
+
+
+.. _license:
+
+License
+=======
+
+This software is licensed under the `MPL 2.0 License`. See the :file:`LICENSE`
+file in the top distribution directory for the full license text.
+
+.. # vim: syntax=rst expandtab tabstop=4 shiftwidth=4 shiftround

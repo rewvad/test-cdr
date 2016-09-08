@@ -1,0 +1,15 @@
+global-exclude *.pyc
+
+include README.rst
+include COPYING
+include cdr_stats/django.wsgi
+include requirements/all.txt
+include requirements/dev.txt
+include requirements/install.sh
+include requirements/rtd.txt
+include requirements/basic.txt
+include requirements/django.txt
+include requirements/notebook.txt
+include requirements/test.txt
+
+recursive-include cdr_stats *
